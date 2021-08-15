@@ -1,4 +1,4 @@
-# 2.hardware
+# 2_hardware
 
 # sources
 * J. Clark Scott, But how Do it Know? The Basic Principles of Computers for Everyone
