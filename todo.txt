@@ -1,0 +1,7 @@
+
+* but-how-do -it-know?
+
+* 34C3 - Everything you want to know about x86 microcode, but might have been afraid to ask 
+    https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask
+
+* http://www.cburch.com/logisim/

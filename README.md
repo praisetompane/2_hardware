@@ -1,5 +1,8 @@
-# (WIP) 2_hardware
+# 2_hardware
+
 unpack what hardware is and its role in the implementation of computation.
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts.
 
 # references
 
